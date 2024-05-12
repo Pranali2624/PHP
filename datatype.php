@@ -37,10 +37,7 @@ $ditms=new abc();
 
 echo"<br>";
 echo var_dump ($ditms)."<br>";
-
-
-
-
+
 
 
 
