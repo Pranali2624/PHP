@@ -19,3 +19,4 @@ echo"Outside the function after calling function<br>";
 echo"a=".$a."<br>";
 echo"b=".$b."<br>";
 ?>
+
