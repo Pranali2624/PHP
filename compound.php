@@ -25,6 +25,7 @@ if(isset($_POST["cal"]))
         <label for="thirdno"> Number of years</label>
         <input type="text" name="time"><br><br>
         <input type="submit" name="cal" value=" calculate">
+            
     
      </form>
  </body>
