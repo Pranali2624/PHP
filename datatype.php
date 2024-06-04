@@ -14,9 +14,6 @@ echo"<br>";
 $name=array("pranali","apurva");
 var_dump($name);
 echo"<br>";
-
-
-
 $e=null;
 var_dump($e);
 echo "<br>";
@@ -38,7 +35,8 @@ $ditms=new abc();
 
 echo"<br>";
 echo var_dump ($ditms)."<br>";
-
+
+
 
 
 
