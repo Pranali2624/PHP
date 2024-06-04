@@ -1,8 +1,8 @@
 <?php
 $P=array("Pranali","Apurva","Aniket");
-foreach($P as $A)
+foreach($P as $L)
 {
-    echo"$A <br>";
+    echo"$L <br>";
 }
 echo "Total Elements in array are" .count($P);
 ?>
