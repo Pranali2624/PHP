@@ -6,7 +6,7 @@ function swap($x,$y)
     $t=$x;
     $x=$y;
     $y=$t;
-    echo"Inside function <br>";
+    echo"Inside  function <br>";
     echo"a=".$x."<br>";
     echo"b=".$y."<br>";
 }
